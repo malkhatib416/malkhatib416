@@ -108,12 +108,7 @@ Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=argus416&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
