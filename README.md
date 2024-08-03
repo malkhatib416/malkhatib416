@@ -1,11 +1,7 @@
-## Hey 👋, I'm Mohamad, Fullstack JS Developer  
-  
+ ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=argus416&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<<<<<<< HEAD
-Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with over 3 years of experience. I specialize in building dynamic web and mobile applications using modern frameworks like React, Vue.js, Expo, Node.js, and Fastify. My background includes a Master’s in Information System Development and a Bachelor’s in DevOps. I thrive in agile environments, working efficiently within international teams to deliver high-quality, performant solutions.  
-=======
 Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with over 3 years of experience. I specialize in building dynamic web and mobile applications using modern frameworks like React, Vue.js, React Native, Node.js, and Fastify. My background includes a Master’s in Information System Development and a Bachelor’s in DevOps. I thrive in agile environments, working efficiently within international teams to deliver high-quality, performant solutions.  
->>>>>>> dc511a8 (up)
   
 
 - 🌱 I’m currently learning Laravel  
@@ -107,17 +103,3 @@ Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with 
 
 
 
-<br/>  
-<hr/>  
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=argus416&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
