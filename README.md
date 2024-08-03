@@ -7,7 +7,7 @@ Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with 
 - 🌱 I’m currently learning Laravel  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I find coding relaxing 🧘‍♂️
   
 
 <br/>  
