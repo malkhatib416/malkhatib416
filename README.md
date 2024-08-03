@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/45128673?v=4" align="center" width="300" />
-</div>  
+
   
 
 ### <div align="center">I'm Mohamad, Fullstack JS Developer</div>  
