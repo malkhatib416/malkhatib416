@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Mohamad, Fullstack JS Developer  
   
 
-Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with over 3 years of experience. I specialize in building dynamic web and mobile applications using modern frameworks like React, Vue.js, Node.js, and Fastify. My background includes a Master’s in Information System Development and a Bachelor’s in DevOps. I thrive in agile environments, working efficiently within international teams to deliver high-quality, performant solutions.  
+Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with over 3 years of experience. I specialize in building dynamic web and mobile applications using modern frameworks like React, Vue.js, Expo, Node.js, and Fastify. My background includes a Master’s in Information System Development and a Bachelor’s in DevOps. I thrive in agile environments, working efficiently within international teams to deliver high-quality, performant solutions.  
   
 
 - 🌱 I’m currently learning Laravel  
