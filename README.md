@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-**Hi! I’m Mohamad Al-Khatib**, a passionate **Full Stack JavaScript Developer** with over **3 years of experience** crafting **modern, performant web and mobile applications**.
+**Hi! I’m Mohamad Al-Khatib**, **Full Stack JavaScript Developer** with over **3 years of experience** crafting **modern, performant web and mobile applications**.
 I specialize in frameworks like **React**, **Vue.js**, **React Native**, **Node.js**, and **Fastify**, and love bringing ideas to life with **clean, maintainable code**.
 
 🎓 **Master’s in Information System Development** | **Bachelor’s in DevOps**
