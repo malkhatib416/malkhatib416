@@ -94,9 +94,9 @@ Hello! I'm Mohamad Al-khatib, a passionate Full Stack JavaScript Developer with 
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=argus416&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=malkhatib416&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argus416&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkhatib416&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
