@@ -1,6 +1,6 @@
 # 👋 Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-[![](https://komarev.com/ghpvc/?username=argus416\&label=Profile%20Visits\&color=blue\&style=for-the-badge)](https://github.com/argus416)
+[![](https://komarev.com/ghpvc/?username=malkhatib416\&label=Profile%20Visits\&color=blue\&style=for-the-badge)](https://github.com/malkhatib416)
 
 ## 🙋‍♂️ About Me
 
@@ -67,7 +67,7 @@ I specialize in frameworks like **React**, **Vue.js**, **React Native**, **Node.
   <a href="https://linkedin.com/in/mohamad-alkhatib416" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/argus416" target="_blank">
+  <a href="https://github.com/malkhatib416" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
